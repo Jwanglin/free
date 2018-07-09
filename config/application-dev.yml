@@ -1,6 +1,5 @@
 server:
-  port:8080
+  port: 8080
+  name: jwl
 application:
-  name:cfg-center
-server:
-  name:jwl
+  name: cfg-center
