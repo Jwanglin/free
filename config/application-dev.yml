@@ -2,3 +2,5 @@ server:
   port:8080
 application:
   name:cfg-center
+server:
+  name:jwl
