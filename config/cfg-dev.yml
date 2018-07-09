@@ -1,3 +1,4 @@
 test: true
+name: jwl
 server: 
   name: jwl
