@@ -3,3 +3,5 @@ server:
   name: jwl
 application:
   name: cfg-center
+name: 
+  jwl_app
