@@ -1,6 +1,6 @@
 test: true
 server:
   port: 8081
-name: jwl
-server: 
   name: jwl
+name: jwl
+
